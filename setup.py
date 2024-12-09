@@ -14,7 +14,7 @@ def readme():
 setup(
     name="sicrediextractors",
     packages=find_packages(include=["sicrediextractors", "sicrediextractors.*"]),
-    version="0.0.1",
+    version="1.0.0",
     install_requires=requirements,
     description="Teste de lib b",
     long_description=readme(),
