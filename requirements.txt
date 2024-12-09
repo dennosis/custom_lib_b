@@ -1,1 +1,1 @@
-customliba @ git+https://github.com/dennosis/custom_lib_a.git
+sicrediutils @ git+https://github.com/dennosis/sicredi_utils.git

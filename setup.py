@@ -12,8 +12,8 @@ def readme():
 
 
 setup(
-    name="customlibb",
-    packages=find_packages(include=["customlibb", "customlibb.*"]),
+    name="sicrediextractors",
+    packages=find_packages(include=["sicrediextractors", "sicrediextractors.*"]),
     version="0.0.1",
     install_requires=requirements,
     description="Teste de lib b",
